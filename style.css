@@ -1,0 +1,12 @@
+p, h1, h2
+{
+    text-align: center;
+}
+h1
+{
+	font-size: 45px;
+}
+@font-face {
+    font-family:'Raleway-Light';
+    src: url(fonts/'Raleway-Light.ttf');
+}
