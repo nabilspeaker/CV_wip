@@ -1,4 +1,5 @@
 CV_wip
 ======
-
-Mon CV html5 css3
+Structure de mon projet 
+mes images dans "img" 
+mes typo dans "fonts" 
